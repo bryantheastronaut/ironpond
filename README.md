@@ -1,4 +1,4 @@
-# react-recipe-box
+# react-es2015-boilerplate
 
 ##console commands
 ###setup
@@ -9,6 +9,6 @@
 ###dev server
     npm run dev
     http://localhost:8080
-    
+
 ###build code
     webpack
