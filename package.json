@@ -1,7 +1,7 @@
 {
-  "name": "react-es2015-boilerplate",
+  "name": "IronPond",
   "version": "1.0.0",
-  "description": "react es2015 boilerplate",
+  "description": "Iron Pond Game Development",
   "main": "main.js",
   "scripts": {
     "dev": "webpack-dev-server --content-base public --inline --hot",

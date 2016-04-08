@@ -1,9 +1,9 @@
-# react-es2015-boilerplate
+# Iron Pond
 
 ##console commands
 ###setup
-    git clone https://github.com/mstaebler/react-es2015-boilerplate.git
-    cd react-es2015-boilerplate
+    git clone https://github.com/mstaebler/ironpond.git
+    cd ironpond
     npm i
 
 ###dev server
